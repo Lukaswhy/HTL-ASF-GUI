@@ -30,4 +30,5 @@ Example:
 {
   "ASF_path": "C:/ArchiSteamFarm/ArchiSteamFarm.exe"
 }
+# Preview
 <img width="1054" height="602" alt="Screenshot 2026-01-22 220900" src="https://github.com/user-attachments/assets/0082b45b-326c-47ea-bd5b-b3fa074777a1" />
